@@ -1,3 +1,2 @@
 JODC Git and Github Workshop
-
-
+Editing my repository to change the files contents
